@@ -20,6 +20,10 @@ The following images show the web application's appearance and functionality:
 
 
 ## Link to deployed application
+
+
+## Credits
+
  
 
 ## License

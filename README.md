@@ -17,13 +17,18 @@ WHEN I refresh the page - THEN the saved events persist
 
 ## Screen Shot
 The following images show the web application's appearance and functionality:
+![ScreenShot](./assets/images/Screenshot%202022-10-13%20114603.png)
 
 
 ## Link to deployed application
 
 
 ## Credits
-
+University of Adelaide - Coding Bootcamp Classmates and Tutors
+GitHub
+Youtube.com
+jQuery Crash Course - Traversy Media
+Moment JS Tutorials - dcode
  
 
 ## License
